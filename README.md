@@ -16,7 +16,7 @@
 <a href="https://www.sfml-dev.org/"><p align="center">!!! For the game to work, you need to install sfml !!!</a></p>
 
 ```
-git clone https://github.com/Night3098/cubes
+git clone https://github.com/night3098/cubes
 cd cubes
 g++ Source.cpp -o cubes -lsfml-graphics -lsfml-window -lsfml-system
 ./cubes
